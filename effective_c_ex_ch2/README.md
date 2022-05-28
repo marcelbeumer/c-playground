@@ -1,4 +1,6 @@
-# Book "Effective C" Exercice Chapter 2
+# Book "Effective C" Exercise Chapter 2
+
+Static variables, function pointer arrays.
 
 ## Setup
 
